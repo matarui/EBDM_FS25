@@ -1,7 +1,7 @@
 ---
 title: "EBDM"
 description: |
-  Welcome to the website for *Evidence-based decision making* FS24 ([11230-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=280447))
+  Welcome to the website for *Evidence-based decision making* FS25 ([11230-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=289121))
   
   Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -29,23 +29,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # :busstop: Session information
 
-Sessions take place Mondays, 14.15-15.45, Biozentrum, Maurice E. Müller Saal U1.111.  
+Sessions take place Mondays, 14.15-15.45 (different locations; KH = Kollegienhaus, Hörsaal 120; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006; Chemie = Chemie, Organische, Grosser Hörsaal OC).  
 
 ::: l-body
-| # | Date     | Topic                         |        |
-|---| ---------|-------------------------------|--------|
-| 1 | 26.02.2024 | [The scientific method(s)](session1.html) |[pdf](presentations/EBDM_session1.pdf)| 
-| 2 | 04.03.2024 | [Algorithms: The power of algorithms](session2.html) |[pdf](presentations/EBDM_session2.pdf) |
-| 3 | 11.03.2024 | [Algorithms: The problems of algorithms](session3.html) |[pdf](presentations/EBDM_session3.pdf) |
-| 4 | 18.03.2024 | [Consensus: The wisdom of the crowd](session4.html) |[pdf](presentations/EBDM_session4.pdf) |
-| 5 | 25.03.2024 | [Consensus: The wisdom of experts](session5.html) |[pdf](presentations/EBDM_session5.pdf) |
-| 6 | 08.04.2024 | [Counterfactuals: Experiments](session6.html) |[pdf](presentations/EBDM_session6.pdf) |
-| 7 | 15.04.2024 | [Counterfactuals: Alternatives to experiments](session7.html) |[pdf](presentations/EBDM_session7.pdf) |
-| 8 | 22.04.2024 | [Synthesis: Overview](session8.html) |[pdf](presentations/EBDM_session8.pdf) |
-| 9 | 29.04.2024 | [Synthesis: Limitations](session9.html) |[pdf](presentations/EBDM_session9.pdf) |
-| 10 | 06.05.2024 | [Interventions: A taxonomy](session10.html) |[pdf](presentations/EBDM_session10.pdf) |
-| 11 | 13.05.2024 | [Interventions: Implementation](session11.html) |[pdf](presentations/EBDM_session11.pdf) |
-| 12 | 27.05.2024 | [Exam](exam.html) | |
+| # | Date     | Topic                         | Slides | Location |
+|---| ---------|-------------------------------|--------| --------|
+| 1 | 17.02.2025 | [The scientific method(s)](session1.html) |[pdf](presentations/EBDM_session1.pdf)| KH |
+| 2 | 24.02.2025 | [Algorithms: The power of algorithms](session2.html) |[pdf](presentations/EBDM_session2.pdf) |KH |
+| 3 | 17.03.2025 | [Algorithms: The problems of algorithms](session3.html) |[pdf](presentations/EBDM_session3.pdf) | Missionsstr. |
+| 4 | 24.03.2025 | [Consensus: The wisdom of the crowd](session4.html) |[pdf](presentations/EBDM_session4.pdf) | Missionsstr. |
+| 5 | 31.03.2025 | [Consensus: The wisdom of experts](session5.html) |[pdf](presentations/EBDM_session5.pdf) | Missionsstr. |
+| 6 | 07.04.2025 | [Counterfactuals: Experiments](session6.html) |[pdf](presentations/EBDM_session6.pdf) | Missionsstr. |
+| 7 | 14.04.2025 | [Counterfactuals: Alternatives to experiments](session7.html) |[pdf](presentations/EBDM_session7.pdf) | Missionsstr. |
+| 8 | 28.04.2025 | [Synthesis: Overview](session8.html) |[pdf](presentations/EBDM_session8.pdf) | Missionsstr. |
+| 9 | 05.05.2025 | [Synthesis: Limitations](session9.html) |[pdf](presentations/EBDM_session9.pdf) | Missionsstr. |
+| 10 | 12.05.2025 | [Interventions: A taxonomy](session10.html) |[pdf](presentations/EBDM_session10.pdf) | Missionsstr. |
+| 11 | 19.05.2025 | [Interventions: Implementation](session11.html) |[pdf](presentations/EBDM_session11.pdf) | Missionsstr. |
+| 12 | 26.05.2025 | [Exam](exam.html) | | Chemie |
 :::
 
 # :books: What is this course about? 
