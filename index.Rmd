@@ -29,23 +29,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # :busstop: Session information
 
-Sessions take place Mondays, 14.15-15.45 (different locations; KH = Kollegienhaus, Hörsaal 120; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006; Chemie = Chemie, Organische, Grosser Hörsaal OC).  
+Sessions take place Mondays, 14.15-15.45 in different locations (see table below; Kollegie = Kollegienhaus, Hörsaal 120; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006; Chemie = Chemie, Organische, Grosser Hörsaal OC).  
 
 ::: l-body
-| # | Date     | Topic                         | Slides | Location |
-|---| ---------|-------------------------------|--------| --------|
-| 1 | 17.02.2025 | [The scientific method(s)](session1.html) |[pdf](presentations/EBDM_session1.pdf)| KH |
-| 2 | 24.02.2025 | [Algorithms: The power of algorithms](session2.html) |[pdf](presentations/EBDM_session2.pdf) |KH |
-| 3 | 17.03.2025 | [Algorithms: The problems of algorithms](session3.html) |[pdf](presentations/EBDM_session3.pdf) | Missionsstr. |
-| 4 | 24.03.2025 | [Consensus: The wisdom of the crowd](session4.html) |[pdf](presentations/EBDM_session4.pdf) | Missionsstr. |
-| 5 | 31.03.2025 | [Consensus: The wisdom of experts](session5.html) |[pdf](presentations/EBDM_session5.pdf) | Missionsstr. |
-| 6 | 07.04.2025 | [Counterfactuals: Experiments](session6.html) |[pdf](presentations/EBDM_session6.pdf) | Missionsstr. |
-| 7 | 14.04.2025 | [Counterfactuals: Alternatives to experiments](session7.html) |[pdf](presentations/EBDM_session7.pdf) | Missionsstr. |
-| 8 | 28.04.2025 | [Synthesis: Overview](session8.html) |[pdf](presentations/EBDM_session8.pdf) | Missionsstr. |
-| 9 | 05.05.2025 | [Synthesis: Limitations](session9.html) |[pdf](presentations/EBDM_session9.pdf) | Missionsstr. |
-| 10 | 12.05.2025 | [Interventions: A taxonomy](session10.html) |[pdf](presentations/EBDM_session10.pdf) | Missionsstr. |
-| 11 | 19.05.2025 | [Interventions: Implementation](session11.html) |[pdf](presentations/EBDM_session11.pdf) | Missionsstr. |
-| 12 | 26.05.2025 | [Exam](exam.html) | | Chemie |
+| # | Date     | Topic                         | Slides | Location | Instructor |
+|---| ---------|-------------------------------|--------| --------| --------|
+| 1 | 17.02.2025 | [The scientific method(s)](session1.html) |[pdf](presentations/EBDM_session1.pdf)| Kollegie | Mata|
+| 2 | 24.02.2025 | [Algorithms: The power of algorithms](session2.html) |[pdf](presentations/EBDM_session2.pdf) |Kollegie | Mata|
+| 3 | 17.03.2025 | [Algorithms: The problems of algorithms](session3.html) |[pdf](presentations/EBDM_session3.pdf) | Missionsstr. | Mata|
+| 4 | 24.03.2025 | [Consensus: The wisdom of the crowd](session4.html) |[pdf](presentations/EBDM_session4.pdf) | Missionsstr. | Tisdall|
+| 5 | 31.03.2025 | [Consensus: The wisdom of experts](session5.html) |[pdf](presentations/EBDM_session5.pdf) | Missionsstr. | Tisdall|
+| 6 | 07.04.2025 | [Counterfactuals: Experiments](session6.html) |[pdf](presentations/EBDM_session6.pdf) | Missionsstr. | Tisdall|
+| 7 | 14.04.2025 | [Counterfactuals: Alternatives to experiments](session7.html) |[pdf](presentations/EBDM_session7.pdf) | Missionsstr. | Tisdall|
+| 8 | 28.04.2025 | [Synthesis: Overview](session8.html) |[pdf](presentations/EBDM_session8.pdf) | Missionsstr. | Mata|
+| 9 | 05.05.2025 | [Synthesis: Limitations](session9.html) |[pdf](presentations/EBDM_session9.pdf) | Missionsstr. | Mata|
+| 10 | 12.05.2025 | [Interventions: A taxonomy](session10.html) |[pdf](presentations/EBDM_session10.pdf) | Missionsstr. | Mata|
+| 11 | 19.05.2025 | [Interventions: Implementation](session11.html) |[pdf](presentations/EBDM_session11.pdf) | Missionsstr. | Mata|
+| 12 | 26.05.2025 | [Exam](exam.html) | | Chemie | |
 :::
 
 # :books: What is this course about? 
