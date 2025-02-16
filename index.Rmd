@@ -48,6 +48,8 @@ Sessions take place Mondays, 14.15-15.45 in different locations (see table below
 | 12 | 26.05.2025 | [Exam](exam.html) | | Chemie | |
 :::
 
+*Note*. Slides will be made available shortly before each session. For some sessions, the slides available may be from previous versions of the course (FS24).
+
 # :books: What is this course about? 
 
 As the name implies, this course is about **evidence-based decision making**. The main premise of the course is that informed decisions require the use of evidence (i.e., data that has been processed in some way to generate knowledge or insight). 
